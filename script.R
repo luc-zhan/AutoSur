@@ -1,4 +1,4 @@
-# === Projet AutoSur : La tarification automobile (fréquence-sévérité) ===
+# === AutoSur : La tarification de l'assurance automobile ===
 
 # Initialisation
 library(dplyr)
